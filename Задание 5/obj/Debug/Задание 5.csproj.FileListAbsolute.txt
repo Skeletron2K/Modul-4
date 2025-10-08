@@ -1,0 +1,7 @@
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 5\bin\Debug\Задание 5.exe.config
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 5\bin\Debug\Задание 5.exe
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 5\bin\Debug\Задание 5.pdb
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 5\obj\Debug\Задание 5.csproj.AssemblyReference.cache
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 5\obj\Debug\Задание 5.csproj.CoreCompileInputs.cache
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 5\obj\Debug\Задание 5.exe
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 5\obj\Debug\Задание 5.pdb

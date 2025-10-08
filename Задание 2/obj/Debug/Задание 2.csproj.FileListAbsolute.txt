@@ -1,0 +1,8 @@
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\bin\Debug\Задание 2.exe.config
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\bin\Debug\Задание 2.exe
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\bin\Debug\Задание 2.pdb
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\obj\Debug\Задание 2.csproj.AssemblyReference.cache
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\obj\Debug\Задание 2.csproj.SuggestedBindingRedirects.cache
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\obj\Debug\Задание 2.exe
+G:\Programing\Arbaiten MVS\Модуль 4\Задание 2\obj\Debug\Задание 2.pdb
